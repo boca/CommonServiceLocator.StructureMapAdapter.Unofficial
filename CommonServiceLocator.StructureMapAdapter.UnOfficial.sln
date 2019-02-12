@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonServiceLocator.StructureMapAdapter.UnOfficial", "CommonServiceLocator.StructureMapAdapter.UnOfficial\CommonServiceLocator.StructureMapAdapter.UnOfficial.csproj", "{A9205D6F-C6FA-4559-A831-17CB3B01C95E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonServiceLocator.StructureMapAdapter.UnOfficial.Tests", "CommonServiceLocator.StructureMapAdapter.UnOfficial.Tests\CommonServiceLocator.StructureMapAdapter.UnOfficial.Tests.csproj", "{5E7F980D-2951-44DA-99DA-6E49AA99165C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A9205D6F-C6FA-4559-A831-17CB3B01C95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9205D6F-C6FA-4559-A831-17CB3B01C95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9205D6F-C6FA-4559-A831-17CB3B01C95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7F980D-2951-44DA-99DA-6E49AA99165C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7F980D-2951-44DA-99DA-6E49AA99165C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7F980D-2951-44DA-99DA-6E49AA99165C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7F980D-2951-44DA-99DA-6E49AA99165C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
